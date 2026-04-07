@@ -1,0 +1,25 @@
+# Build Order
+
+- [x] Write project requirements
+- [x] Write user stories
+- [ ] Create class diagram
+- [x] Create `User` class
+- [x] Create `Account` class
+- [x] Create `Transaction` class
+- [x] Create mock data
+- [x] Create authentication logic
+- [x] Create bank service logic
+- [x] Test backend logic in `Main.java`
+- [ ] Create JavaFX app structure
+- [ ] Build login screen
+- [ ] Connect login screen to authentication logic
+- [ ] Build dashboard screen
+- [ ] Add scene switching
+- [ ] Build deposit screen
+- [ ] Build withdraw screen
+- [ ] Build transfer screen
+- [ ] Build transaction history screen
+- [ ] Add CSS styling
+- [ ] Test the app
+- [ ] Record known bugs
+- [ ] Add future improvements
