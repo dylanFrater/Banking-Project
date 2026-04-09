@@ -7,6 +7,8 @@ import bankingapp.service.BankService;
 
 public class Main {
     public static void main(String[] args) {
+        //testing for git
+
         AuthService authService = new AuthService();
         BankService bankService = new BankService();
 
